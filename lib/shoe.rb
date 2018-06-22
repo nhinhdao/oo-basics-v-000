@@ -24,7 +24,6 @@ class Book
     def genre
         @genre
     end
-
     # attr_accessor :tittle, :author, :page_count, :genre
     def turn_page
         puts "Flipping the page...wow, you read fast!"
